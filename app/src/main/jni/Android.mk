@@ -82,4 +82,5 @@ LOCAL_SRC_FILES += \
 include $(BUILD_SHARED_LIBRARY)
 
 
-include /Users/jmoritz/My_Documents/Spraakvanger/libusb/android/jni/libusb.mk
+#include /Users/jmoritz/My_Documents/Spraakvanger/libusb/android/jni/libusb.mk
+include /Users/jmoritz/My_Documents/Spraakvanger/libusb_android_fork/android/jni/libusb.mk
